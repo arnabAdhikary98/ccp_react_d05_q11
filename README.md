@@ -9,8 +9,8 @@ Build a React application that demonstrates props drilling by passing a single s
 ## ⚡ Setup using Vite
 
 ```bash
-npm create vite@latest my-props-drilling-app --template react
-cd my-props-drilling-app
+npm create vite@latest my-react-app --template react
+cd my-react-app
 npm install
 ```
 
